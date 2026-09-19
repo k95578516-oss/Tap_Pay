@@ -1381,5 +1381,47 @@ The project is intended to demonstrate not only CRUD functionality, but also pra
 ```text
 Java 21
 Spring Boot 4.x
-Spring Secur
+Spring Security
+JWT
+MySQL
+Spring Data JPA
+Swagger / OpenAPI
 ```
+
+### Android Frontend
+
+```text
+Kotlin
+Jetpack Compose
+Retrofit
+Room
+WorkManager
+CameraX
+ZXing
+Android NFC
+```
+
+### Payment Methods
+
+```text
+📡 NFC
+📷 QR
+```
+
+### Offline Technology
+
+```text
+Room Database
++
+WorkManager
++
+Backend Synchronization
+```
+
+---
+
+# 📄 License
+
+This project is developed as a hackathon/academic project.
+
+See the repository license for usage and distribution terms.
